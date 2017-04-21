@@ -8,3 +8,5 @@ Here is a great article "<a href="http://web.mit.edu/jrankin/www/engin_as_lib_ar
 I created this site as a way to build a resource to tools, methods and examples of how art and creativity can lead innovation in the tech and social sectors.
 
 For more information on ways you can learn design thinking, innovation, interaction design and a wide variety of creative and technical skills check out the <a href="http://multimedia.csueastbay.edu/">Multimedia Graduate program at CSU East Bay</a>, where I teach.
+
+[more](about.md)
