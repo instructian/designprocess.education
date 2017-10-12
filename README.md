@@ -10,3 +10,13 @@ I created this site as a way to build a resource to tools, methods and examples 
 For more information on ways you can learn design thinking, innovation, interaction design and a wide variety of creative and technical skills check out the <a href="http://multimedia.csueastbay.edu/">Multimedia Graduate program at CSU East Bay</a>, where I teach.
 
 [more](about.md)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58119300-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58119300-3');
+</script>
